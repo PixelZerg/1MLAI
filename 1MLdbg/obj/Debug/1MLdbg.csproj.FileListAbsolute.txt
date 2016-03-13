@@ -1,0 +1,9 @@
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\1MLdbg.exe.config
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\1MLdbg.exe
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\1MLdbg.pdb
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\obj\Debug\1MLdbg.csprojResolveAssemblyReference.cache
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\obj\Debug\1MLdbg.exe
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\obj\Debug\1MLdbg.pdb
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\Lib1MLAI.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\Interop.AutoItX3Lib.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\1MLdbg\bin\Debug\Lib1MLAI.pdb

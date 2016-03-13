@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib1MLAI", "Lib1MLAI\Lib1MLAI.csproj", "{D1B083A2-ADE5-4C3D-ACE1-7DCEB759CFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1MLdbg", "1MLdbg\1MLdbg.csproj", "{8FD4AC41-FD16-4A4F-AA4D-CD291E900B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1MLVisual", "1MLVisual\1MLVisual.csproj", "{40A511A2-5FA5-4DC2-B752-BA13934DA45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B083A2-ADE5-4C3D-ACE1-7DCEB759CFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B083A2-ADE5-4C3D-ACE1-7DCEB759CFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B083A2-ADE5-4C3D-ACE1-7DCEB759CFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B083A2-ADE5-4C3D-ACE1-7DCEB759CFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD4AC41-FD16-4A4F-AA4D-CD291E900B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD4AC41-FD16-4A4F-AA4D-CD291E900B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD4AC41-FD16-4A4F-AA4D-CD291E900B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD4AC41-FD16-4A4F-AA4D-CD291E900B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A511A2-5FA5-4DC2-B752-BA13934DA45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A511A2-5FA5-4DC2-B752-BA13934DA45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A511A2-5FA5-4DC2-B752-BA13934DA45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A511A2-5FA5-4DC2-B752-BA13934DA45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

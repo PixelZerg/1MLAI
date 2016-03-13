@@ -1,0 +1,17 @@
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\1MLVisual.exe.config
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\1MLVisual.exe
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\1MLVisual.pdb
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\Lib1MLAI.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\Interop.AutoItX3Lib.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\Lib1MLAI.pdb
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\1MLVisual.csprojResolveAssemblyReference.cache
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\1MLVisual.exe
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\1MLVisual.pdb
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\BrainNet.NeuralFramework.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\_1MLVisual.UI.resources
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\1MLVisual.csproj.GenerateResource.Cache
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\1MLVisual.csproj.ResolveComReference.cache
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\1MLVisual\obj\Debug\_1MLVisual.ExportDialog.resources

@@ -1,0 +1,14 @@
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\bin\Debug\Lib1MLAI.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\bin\Debug\Lib1MLAI.pdb
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.csprojResolveAssemblyReference.cache
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Interop.AutoItX3Lib.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.csproj.ResolveComReference.cache
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.pdb
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\bin\Debug\Interop.AutoItX3Lib.dll
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.BmpViewer.resources
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.csproj.GenerateResource.Cache
+c:\Users\pixelzerg\documents\visual studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.Properties.Resources.resources
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\Lib1MLAI\bin\Debug\WindowsInput.dll
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\Lib1MLAI\bin\Debug\WindowsInput.xml
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\1MLAI\Lib1MLAI\obj\Debug\Lib1MLAI.BmpViewerControl.resources
